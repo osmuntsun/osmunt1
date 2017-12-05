@@ -1,0 +1,9 @@
+C:\Users\A6\documents\visual studio 2010\Projects\osmuntsun\osmuntsun\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\A6\documents\visual studio 2010\Projects\osmuntsun\osmuntsun\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\A6\documents\visual studio 2010\Projects\osmuntsun\osmuntsun\obj\x86\Debug\osmuntsun.vbproj.GenerateResource.Cache
+C:\Users\A6\documents\visual studio 2010\Projects\osmuntsun\osmuntsun\bin\Debug\osmuntsun.exe
+C:\Users\A6\documents\visual studio 2010\Projects\osmuntsun\osmuntsun\bin\Debug\osmuntsun.pdb
+C:\Users\A6\documents\visual studio 2010\Projects\osmuntsun\osmuntsun\bin\Debug\osmuntsun.xml
+C:\Users\A6\documents\visual studio 2010\Projects\osmuntsun\osmuntsun\obj\x86\Debug\osmuntsun.exe
+C:\Users\A6\documents\visual studio 2010\Projects\osmuntsun\osmuntsun\obj\x86\Debug\osmuntsun.xml
+C:\Users\A6\documents\visual studio 2010\Projects\osmuntsun\osmuntsun\obj\x86\Debug\osmuntsun.pdb
