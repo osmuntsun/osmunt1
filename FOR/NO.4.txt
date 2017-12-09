@@ -1,0 +1,15 @@
+ublic Class Form1
+
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Dim O As String = ""
+        Dim S As Integer = 5
+        For I = 1 To S
+            For n = 1 To 6 - I
+                O &= ("*")
+            Next
+            O &= vbNewLine
+        Next
+        MsgBox(O)
+        Close()
+    End Sub
+End Class
